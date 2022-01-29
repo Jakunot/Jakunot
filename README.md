@@ -26,4 +26,5 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jakunot&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakunot&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakunot&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
