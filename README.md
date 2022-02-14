@@ -13,7 +13,9 @@
 
 - ⚡ Fun fact: Huge football fan
 
-- :mailbox: How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Jabez-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jabez-otieno-46bbb71b5/)
+<!-- 💬 How to reach me <br>[![Linkedin Badge](https://img.shields.io/badge/-Jabez-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jabez-otieno-46bbb71b5/) -->
+<!-- [![Github Badge](https://img.shields.io/badge/-Jabez-purple?style=flat&logo=Github&logoColor=white)](https://www.linkedin.com/in/jabez-otieno-46bbb71b5/)-->
+
 
 
 
@@ -29,8 +31,6 @@
   <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
  
-  
-  
   
 </div>
 <br>
