@@ -1,5 +1,5 @@
 
-<h3 align="center"><samp> Hi there 👋🏾, i'm Jay. Currently studying computer science at Royal Institute of Technology in stockholm. 
+<h3 style ="text-align:center"><samp> Hi there 👋🏾, i'm Jay. Currently studying computer science at Royal Institute of Technology in stockholm. 
   I am an aspiring developer so i'm trying to learn as much as possible. I also enjoy physics as well as understanding the mysteries of the universe. 📡  </samp></h3>
 
 ---
