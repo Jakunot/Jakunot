@@ -1,5 +1,6 @@
 
-<h4 align="center"><samp> Hi there 👋🏾, i'm Jay. Currently studying computer science at Royal Institute of Technology in stockholm.  </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾, i'm Jay. Currently studying computer science at Royal Institute of Technology in stockholm. 
+  I am an aspiring developer so i'm trying to learn as much as possible. I also enjoy physics as well as understanding the mysteries of the universe. 📡  </samp></h4>
 
 ---
 
@@ -26,6 +27,7 @@
   <a href="https://github.com/Jakunot">
     <img src="https://img.shields.io/badge/Github-blueviolet?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
+  <a href="mailto: jabkun@gmail.com"> <img src="https://img.shields.io/badge/e‑mail-blueviolet?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </div>
 <br>
 
@@ -35,8 +37,8 @@
   <summary><samp>GitHub Stats</samp></summary>
   <p align="center">
  
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jakunot&show_icons=true&      include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakunot&layout=compact&theme=graywhite&hide_border=true" /></a> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="400px" height="148px" src="https://github-readme-stats.vercel.app/api?username=Jakunot&show_icons=true&      include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> <br>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="400px" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakunot&layout=compact&theme=graywhite&hide_border=true" /></a> 
   </p>
  </details>
 
