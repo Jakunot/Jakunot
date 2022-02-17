@@ -1,10 +1,10 @@
 
-<h4 align="center"><samp> Hi there 👋🏾, i'm Jay. Currently studying computer science at Royal Institute of Technology in stockholm. 
-  I am an aspiring developer so i'm trying to learn as much as possible. I also enjoy physics as well as understanding the mysteries of the universe. 📡  </samp></h4>
+<h3 align="center"><samp> Hi there 👋🏾, i'm Jay. Currently studying computer science at Royal Institute of Technology in stockholm. 
+  I am an aspiring developer so i'm trying to learn as much as possible. I also enjoy physics as well as understanding the mysteries of the universe. 📡  </samp></h3>
 
 ---
 
-<h4 align="center"><samp> :hammer_and_wrench: Languages and Tools </samp></h4> 
+<h3 align="center"><samp> :hammer_and_wrench: Languages and Tools </samp></h3> 
 <div align="center">
   <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C-program" alt="c" width="40" height="40"/>&nbsp;
@@ -19,7 +19,7 @@
 
 ---
 
-<h4 align="center"><samp>💬Contact Me</samp></h4> 
+<h3 align="center"><samp>💬Contact Me</samp></h3> 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jabez-otieno-46bbb71b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
