@@ -37,7 +37,7 @@
   <summary><samp>GitHub Stats</samp></summary>
   <p align="center">
  
- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="400px" height="148px" src="https://github-readme-stats.vercel.app/api?username=Jakunot&show_icons=true&      include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> <br>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="400px" height="148px" src="https://github-readme-stats.vercel.app/api?username=Jakunot&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> <br>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" width="400px" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakunot&layout=compact&theme=graywhite&hide_border=true" /></a> 
   </p>
  </details>
