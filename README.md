@@ -22,7 +22,7 @@
 
 <h3 align="center"><samp>💬 Connect with me</samp></h3> 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jabez-otieno-46bbb71b5/">
+  <a href="https://www.linkedin.com/in/jabezotieno/">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Jakunot">
